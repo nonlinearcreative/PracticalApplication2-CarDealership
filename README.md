@@ -9,7 +9,7 @@ After extensive data cleaning and preparation, and after using multiple methods 
 
 Sequential Feature Selection repeatedly produced some features which I had suspected would be important drivers in determining price, however, it omitted others which I knew would be important. 
 
-It was my own selection of features which yielded the best results. This was an inflection moment for me. This validated something I have been saying since before enrolling in this class.  "As 'smart' as a machine can be, its intelligence means nothing without a human being to operate, oversee, or to be the most intelligent source of input to a machine learning algorithm." 
+It was my own selection of features which yielded the best results. This was a moment of illumination for me. It validated something I have been saying since before enrolling in this class.  "As 'smart' as a machine can be, its intelligence means nothing without a human being to operate, oversee, or to be the most intelligent source of input to a machine learning algorithm." 
 
 I spent a great deal of time on data cleaning and prep. Probably too much considering the 15 hour estimate. (I probably spent 15 hours just cleaning and prepping) 
 
