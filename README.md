@@ -3,7 +3,7 @@ Capstone project 2
 
 Project summary: 
 
-Although my ultimate findings were inconclusive at the time of submission, I found this project to be one of the most fascinating and illuminating of the course so far. 
+Although my ultimate findings felt somewhat inconclusive at the time of submission, I found this project to be one of the most fascinating and illuminating of the course so far. 
 
 After extensive data cleaning and preparation, and after using multiple methods to predict both important features, as well as manual feature selection based on my own intuition, I was able to find one model which produced a significantly lower mean squared error result than the others. 
 
